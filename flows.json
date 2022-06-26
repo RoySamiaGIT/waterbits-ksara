@@ -20927,7 +20927,7 @@
         "fieldType": "msg",
         "format": "handlebars",
         "syntax": "mustache",
-        "template": "<html>\n    <head>\n        <title>\n            Node Red Web Sample\n        </title>\n    </head>\n    <body>\n       <h1>Hello Application</h1>\n       <h2>Menu 1</h2>\n       <p>It is a node Red sample</p>\n       <br>\n       <h2>Menu</h2>\n       <p> It is Node-red Sample Webpage</p>\n    </body>\n</html>",
+        "template": "<html>\n    <head>\n        <title>\n            Node Red Web Sample\n        </title>\n    </head>\n    <body>\n       <h1>Hello Node Red</h1>\n       <h2>Menu 1</h2>\n       <p>It is a node Red sample</p>\n       <br>\n       <h2>Menu</h2>\n       <p> It is Node-red Sample Webpage</p>\n    </body>\n</html>",
         "output": "str",
         "x": 460,
         "y": 200,
